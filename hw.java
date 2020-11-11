@@ -2,7 +2,7 @@
 import java.until.scanner;
 
 public class hw {
-    // Running First Function Here
+    // Excuting Java here
     public static void main(String[] args) {
 
         // In this scenario, I'm setting variables to my age and my favorite color. This
@@ -18,5 +18,3 @@ public class hw {
         String myColor = "pink";
     }
 
-// I just want to say, I'm not really sure what the questions are asking from
-// me. If I fail this hw assignment, I'm sorry lol. The questions are confusing.
