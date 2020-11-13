@@ -1,8 +1,15 @@
 public class CastingExercise {
     public static void main(String[] args) {
-        int a = (int) 0.5;
-
-        System.out.println(a);
+        
+                double numChange2 = 56883.93;
+                int numChange = 3;
+        
+                int numberChanges = (int) 56883.9375;
+        
+                System.out.println(numberChanges);
+        
+            }
+        }
 
     }
 }
