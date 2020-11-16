@@ -12,8 +12,7 @@ myAge = 33;
 myColor = "pink";
 
 // With Java, we have to be specific with our variables. I'm setting the
-proper
-// variable type here.
+// proper variable type here.
 
 int myAge = 33;
 String myColor = "pink";
