@@ -1,6 +1,6 @@
 
 public class hw {
-    // Excuting Java here
+    // Executing Java here
 public static void main(String[] args) {
 
 // In this scenario, I'm setting variables to my age and my favorite color.
